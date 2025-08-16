@@ -1,10 +1,10 @@
 # Sistema de Gestión de Proyectos
 
-Sistema web desarrollado con Laravel 11 para la gestión de proyectos empresariales.
+Sistema web desarrollado con Laravel para la gestión de proyectos empresariales.
 
 ## Requisitos
 
-- PHP 8.2 o superior
+- PHP
 - Composer
 - MySQL
 
