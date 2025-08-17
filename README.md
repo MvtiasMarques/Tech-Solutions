@@ -2,6 +2,13 @@
 
 Sistema web desarrollado con Laravel para la gestión de proyectos empresariales.
 
+## Versiones Utilizadas
+
+- PHP 7.4+
+- Laravel 8.x
+- MySQL 5.7+
+- Composer 2.x
+
 ## Requisitos
 
 - PHP
@@ -27,10 +34,15 @@ Sistema web desarrollado con Laravel para la gestión de proyectos empresariales
 
 ## Configuración de Base de Datos
 
+Configurar las siguientes variables en tu archivo `.env`:
+
 ```env
-DB_DATABASE=desarrollo_software_1
-DB_USERNAME=root
-DB_PASSWORD=desarrollo_software_1
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=tu_base_de_datos
+DB_USERNAME=tu_usuario
+DB_PASSWORD=tu_contraseña
 ```
 
 ## Rutas de la API
