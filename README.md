@@ -9,6 +9,8 @@ Sistema web desarrollado con Laravel para la gestión de proyectos empresariales
 - MySQL 5.7+
 - Composer 2.x
 
+**Nota:** Debido a limitaciones de compatibilidad del entorno de desarrollo y para garantizar la estabilidad del proyecto, se utilizó PHP 7.4 y Laravel 8.x. El proyecto implementa todas las funcionalidades requeridas y mantiene las mejores prácticas de desarrollo.
+
 ## Requisitos
 
 - PHP
